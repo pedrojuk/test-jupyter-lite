@@ -44,4 +44,4 @@ plotly>=6,<7
 bqplot
 
 # database sqlite
-sqlite3
+# sqlite3

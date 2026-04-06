@@ -45,3 +45,6 @@ bqplot
 
 # database sqlite
 # sqlite3
+
+# sql parser
+sqlparse
